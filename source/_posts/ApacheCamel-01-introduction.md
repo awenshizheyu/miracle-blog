@@ -1,7 +1,7 @@
 ---
-title: 01 - Apache Camel 系列文章 -- 简介
+title: 01-ApacheCamel系列文章-简介
 categories: 
-- Apache Camel 系列文章
+- ApacheCamel系列文章
 ---
 ## 背景
 工作中经常用到Apache Camel（下文用Camel代替），每次用都要找资料，没有积累，加上Camel因为属于企业级集成组件，网上的资料很少、不全面，官方提供的文档又全都是英文，每次都很纠结，所以，决定写一套文档，记录Camel的相关问题。

@@ -1,7 +1,7 @@
 ---
-title: 02 - Apache Camel 系列文章 -- 主要功能
+title: 02-ApacheCamel系列文章-主要功能
 categories: 
-- Apache Camel 系列文章
+- ApacheCamel系列文章
 ---
 注：本节内容因为属于概念的问题，基本都是来自网上摘抄，非本人原创，如有侵权，请联系我删除。
 

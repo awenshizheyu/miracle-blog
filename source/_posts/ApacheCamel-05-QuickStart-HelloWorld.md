@@ -1,7 +1,7 @@
 ---
-title: 05 - Apache Camel 系列文章 -- 快速入门（HelloWorld）
+title: 05-ApacheCamel系列文章-快速入门（HelloWorld）
 categories: 
-- Apache Camel 系列文章
+- ApacheCamel系列文章
 ---
 程序员的世界里，最亲切的一句话，莫过于：“Hello World”，今天，我们通过一个简单的例子，快速入门。
 
