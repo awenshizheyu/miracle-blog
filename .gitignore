@@ -82,3 +82,4 @@ Temporary Items
 *.iml
 out
 gen
+/.deploy_git/
