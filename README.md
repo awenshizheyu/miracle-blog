@@ -1,6 +1,8 @@
 # miracle-blog
 
 本工程是我自己搭建的一个博客工程，
+博客地址：[点击这里](https://awenshizheyu.github.io/miracle/ "爱减肥的阿文")
+
 后面个人博客都放在这里写。
 工程大家步骤如下：
 
